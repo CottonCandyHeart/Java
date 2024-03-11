@@ -1,4 +1,4 @@
-Kalkulator liczb rzeczywistych, zawierający interfejsy.
+Kalkulator liczb zespolonych, zawierający interfejsy.
 
 1. Kliknij 1 żeby wykonać operację
   Składnia:
