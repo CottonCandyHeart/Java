@@ -1,0 +1,1 @@
+"Modify the program that sells tickets in the MPK ticket machine, by adding the appropriate interfaces Biletomat, Bilet, Servwis, Pieniadz. In addition, please note that the ticket machine should have its identifier and address correlated with it. The service can therefore be performed on different ticket machines."

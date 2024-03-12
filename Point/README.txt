@@ -1,0 +1,1 @@
+A short program showing the operation of inheritance on the example of points of different dimensions.
